@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on DataBased</title>
+    <link>/databased/categories/productivity/</link>
+    <description>Recent content in Productivity on DataBased</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/databased/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Establishing a Workflow for 2019 (and beyond)</title>
+      <link>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</guid>
+      <description>What is a workflow? What I Currently Do Where in the world did these steps come from? Inspiration &amp;amp; Ideation Implementation, Analysis, &amp;amp; Presenting Cleaning &amp;amp; Reflecting A Workflow’s Role in Data Science   For DataBased’s inaugural blog post (🎉) I wanted to write about something that I always find myself thinking about when I work on or think about a new project: workflows! No workflow is perfect nor are they linear.</description>
+    </item>
+    
+  </channel>
+</rss>

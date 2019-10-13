@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DataBased</title>
+    <link>/databased/tags/</link>
+    <description>Recent content in Tags on DataBased</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/databased/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019</title>
+      <link>/databased/tags/2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Careers</title>
+      <link>/databased/tags/careers/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/careers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chc</title>
+      <link>/databased/tags/chc/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/chc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cics</title>
+      <link>/databased/tags/cics/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/cics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>/databased/tags/computer-science/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>/databased/tags/data-science/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>/databased/tags/europe/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduation</title>
+      <link>/databased/tags/graduation/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/graduation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatics</title>
+      <link>/databased/tags/informatics/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italy</title>
+      <link>/databased/tags/italy/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>March</title>
+      <link>/databased/tags/march/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/march/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>/databased/tags/networking/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stem</title>
+      <link>/databased/tags/stem/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey</title>
+      <link>/databased/tags/survey/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>/databased/tags/thesis/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umass</title>
+      <link>/databased/tags/umass/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/umass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umass Amherst</title>
+      <link>/databased/tags/umass-amherst/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/umass-amherst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow</title>
+      <link>/databased/tags/workflow/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/tags/workflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

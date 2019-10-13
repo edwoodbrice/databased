@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey on DataBased</title>
+    <link>/databased/tags/survey/</link>
+    <description>Recent content in Survey on DataBased</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/databased/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Galvanizing Interest in Computing</title>
+      <link>/databased/02/19/2019/galvanizing-interest-in-computing/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/02/19/2019/galvanizing-interest-in-computing/</guid>
+      <description>My Last Undergrad Semester  The UMass STEM Ambassadors Program The ECEP Alliance The UMass STEM Ambassadors “Ask Me Anything” Event Surveying STEM AP What’s Next?   My Last Undergrad Semester  The start of my final semester as an undergraduate student is well on its way! It is already a whirlwind of new experiences. As I wrap up my degree, I have had the pleasure of meeting awesome new peers—both on and off campus—and multiple professors in interesting classes.</description>
+    </item>
+    
+  </channel>
+</rss>

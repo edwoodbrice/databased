@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on DataBased</title>
+    <link>/databased/tags/workflow/</link>
+    <description>Recent content in Workflow on DataBased</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/databased/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Tale of 8 Months &amp; 5 Presentations 📚</title>
+      <link>/databased/05/27/2019/a-tale-of-8-months-5-presentations/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/05/27/2019/a-tale-of-8-months-5-presentations/</guid>
+      <description>TL;DR My Undergraduate Honors Thesis: “Step Count &amp;amp; Intensity In Virtual Reality Exergaming &amp;amp; Traditional Physical Activity”  Physical Activity &amp;amp; You: Traditional Options Virtual Reality Exergaming &amp;amp; its Non-VR Counterparts Cited Research My Approach: Navigating the Literature &amp;amp; Finding My Own Path  College Students &amp;amp; VR Exergaming  Methods &amp;amp; Procedure: So what exactly did I do? Mirroring the VR Exergaming &amp;amp; Traditional PA Conditions My Results, Discussion, &amp;amp; Conclusions  Sharing my Thesis with the UMass Community The Honor of Being Recognized What’s Next?</description>
+    </item>
+    
+    <item>
+      <title>Establishing a Workflow for 2019 (and beyond)</title>
+      <link>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</guid>
+      <description>What is a workflow? What I Currently Do Where in the world did these steps come from? Inspiration &amp;amp; Ideation Implementation, Analysis, &amp;amp; Presenting Cleaning &amp;amp; Reflecting A Workflow’s Role in Data Science   For DataBased’s inaugural blog post (🎉) I wanted to write about something that I always find myself thinking about when I work on or think about a new project: workflows! No workflow is perfect nor are they linear.</description>
+    </item>
+    
+  </channel>
+</rss>

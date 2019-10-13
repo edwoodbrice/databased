@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cics on DataBased</title>
+    <link>/databased/tags/cics/</link>
+    <description>Recent content in Cics on DataBased</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/databased/tags/cics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Walking the Walk (3 times!) 🎓</title>
+      <link>/databased/06/30/2019/walking-the-walk-3-times-graduating-from-the-university-of-massachusetts-amherst/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/06/30/2019/walking-the-walk-3-times-graduating-from-the-university-of-massachusetts-amherst/</guid>
+      <description>Graduating from the University of Massachusetts Amherst  My Time at UMass  My 3 Graduation Ceremonies What’s next?    .pic-center { text-align: center; }  Graduating from the University of Massachusetts Amherst  A little more than a month ago, I graduated from UMass in 2019 with a B.S. in Informatics &amp;amp; Data Science! After four years I’m officially on the other side with a degree.</description>
+    </item>
+    
+    <item>
+      <title>A Tale of 8 Months &amp; 5 Presentations 📚</title>
+      <link>/databased/05/27/2019/a-tale-of-8-months-5-presentations/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/05/27/2019/a-tale-of-8-months-5-presentations/</guid>
+      <description>TL;DR My Undergraduate Honors Thesis: “Step Count &amp;amp; Intensity In Virtual Reality Exergaming &amp;amp; Traditional Physical Activity”  Physical Activity &amp;amp; You: Traditional Options Virtual Reality Exergaming &amp;amp; its Non-VR Counterparts Cited Research My Approach: Navigating the Literature &amp;amp; Finding My Own Path  College Students &amp;amp; VR Exergaming  Methods &amp;amp; Procedure: So what exactly did I do? Mirroring the VR Exergaming &amp;amp; Traditional PA Conditions My Results, Discussion, &amp;amp; Conclusions  Sharing my Thesis with the UMass Community The Honor of Being Recognized What’s Next?</description>
+    </item>
+    
+  </channel>
+</rss>
