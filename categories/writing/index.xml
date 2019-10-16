@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Productivity on DataBased</title>
-    <link>/databased/categories/productivity/</link>
-    <description>Recent content in Productivity on DataBased</description>
+    <title>Writing on DataBased</title>
+    <link>/databased/categories/writing/</link>
+    <description>Recent content in Writing on DataBased</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/databased/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/databased/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/databased/10/15/2019/national-novel-writing-month-nanowrimo-is-around-the-corner/</guid>
       <description>What’s #NaNoWriMo?  “WHAT? 50k words?!”  What I’m Planning to Write About  Lightning Fast FAQs  What’s Next?    What’s #NaNoWriMo?  National Novel Writing Month is an event that was started by Chris Baty in July 1999. Since its humble beginnings with 21 participants back then, it has grown into a global phenomenon with several hundred thousand people doing it every year during November.</description>
-    </item>
-    
-    <item>
-      <title>Establishing a Workflow for 2019 (and beyond)</title>
-      <link>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/databased/01/02/2019/establishing-a-workflow-for-2019-and-beyond/</guid>
-      <description>What is a workflow? What I Currently Do Where in the world did these steps come from? Inspiration &amp;amp; Ideation Implementation, Analysis, &amp;amp; Presenting Cleaning &amp;amp; Reflecting A Workflow’s Role in Data Science   For DataBased’s inaugural blog post (🎉) I wanted to write about something that I always find myself thinking about when I work on or think about a new project: workflows! No workflow is perfect nor are they linear.</description>
     </item>
     
   </channel>

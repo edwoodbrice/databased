@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/databased/10/15/2019/national-novel-writing-month-nanowrimo-is-around-the-corner/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/databased/10/05/2019/buongiorno-italy/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>/databased/tags/2019/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,7 +84,7 @@
   
   <url>
     <loc>/databased/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +120,7 @@
   
   <url>
     <loc>/databased/categories/milestone/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,13 +138,13 @@
   
   <url>
     <loc>/databased/post/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/categories/productivity/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,7 +162,7 @@
   
   <url>
     <loc>/databased/tags/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +192,13 @@
   
   <url>
     <loc>/databased/tags/workflow/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/databased/categories/writing/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

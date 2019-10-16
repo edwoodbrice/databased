@@ -13,7 +13,7 @@
     <item>
       <title>Milestone</title>
       <link>/databased/categories/milestone/</link>
-      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/databased/categories/milestone/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Productivity</title>
       <link>/databased/categories/productivity/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/databased/categories/productivity/</guid>
       <description></description>
@@ -43,6 +43,15 @@
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/databased/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>/databased/categories/writing/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/databased/categories/writing/</guid>
       <description></description>
     </item>
     
