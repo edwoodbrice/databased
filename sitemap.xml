@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/databased/06/07/2020/looking-back-a-bi-annual-review/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/databased/10/15/2019/national-novel-writing-month-nanowrimo-is-around-the-corner/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -44,12 +49,18 @@
   </url>
   
   <url>
+    <loc>/databased/tags/2020/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/databased/about/</loc>
   </url>
   
   <url>
     <loc>/databased/tags/careers/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,19 +89,19 @@
   
   <url>
     <loc>/databased/tags/data-science/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/tags/europe/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,6 +124,12 @@
   </url>
   
   <url>
+    <loc>/databased/categories/life/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/databased/tags/march/</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -120,13 +137,13 @@
   
   <url>
     <loc>/databased/categories/milestone/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/tags/networking/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,7 +155,7 @@
   
   <url>
     <loc>/databased/post/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,7 +167,7 @@
   
   <url>
     <loc>/databased/tags/stem/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

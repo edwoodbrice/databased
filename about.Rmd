@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Every data analysis has an underlying story. From successes and surprises to what worked and what did not, DataBased is meant to capture and convey the journey from start to finish.
+
+It is also meant to showcase the fact that data science is not necessarily a linear or isolated experience. Along the way, events, related projects, milestones and new experiences will naturally sprout up and impact perception and one's understanding of the world around them. Consequently, all of those---and so much more---matter to this blog too.
+
+Thank you for taking your time to read DataBased. I hope you will grow along with me. 🌱 
+
+The posts on this blog are written by me, Edwood Brice. Feel free to tweet me on [Twitter](https://twitter.com/edwoodbrice). I can also be found on [GitHub](https://github.com/edwoodbrice) and [LinkedIn](https://www.linkedin.com/in/edwoodbrice/). 
+
+
