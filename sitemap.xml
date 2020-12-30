@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/databased/12/20/2020/revisting-my-workflow/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/databased/06/07/2020/looking-back-a-bi-annual-review/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -44,13 +49,13 @@
   
   <url>
     <loc>/databased/tags/2019/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/tags/2020/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,13 +94,13 @@
   
   <url>
     <loc>/databased/tags/data-science/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +130,7 @@
   
   <url>
     <loc>/databased/categories/life/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,7 +142,7 @@
   
   <url>
     <loc>/databased/categories/milestone/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,13 +160,13 @@
   
   <url>
     <loc>/databased/post/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/databased/categories/productivity/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,7 +184,7 @@
   
   <url>
     <loc>/databased/tags/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
